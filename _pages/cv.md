@@ -12,7 +12,8 @@ redirect_from:
 Education
 ======
 ### Graduate School
-- KAIST, Korea Advanced Institute of Science and Technology, Dajeon, Korea  - Major: [Kim Jaechul Graduate School of AI](https://gsai.kaist.ac.kr/)
+- KAIST, Korea Advanced Institute of Science and Technology, Dajeon, Korea
+  - Major: [Kim Jaechul Graduate School of AI](https://gsai.kaist.ac.kr/)
   - M.S. Student, 2024.03
 
 ### Undergraduate
