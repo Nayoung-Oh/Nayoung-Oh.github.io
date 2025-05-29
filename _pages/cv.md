@@ -68,4 +68,16 @@ Publications
   <ul>{% for post in site.data.publications reversed %}
     {% include paper.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+- Programming Skill
+    - Professional: Python, C, C++
+    - Intermediate: Java
+    - Familiar with ROS, ROS2
+    - Familiar with Git
+    - Familiar with pytorch
+    - Basic web programming with React / Basic app development with Java
+- Other Development Skill
+    - 3D Modeling: SolidWorks, Fusion 360
+    - Familiar with Raspberry Pi, Arduino
