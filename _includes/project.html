@@ -1,0 +1,31 @@
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {%- assign title = post.title | markdownify | strip_html -%}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div>
+    <div style="font-size: 14pt; font-weight: bold;">
+     {{ title }}
+    </div>
+    <div style="font-size:12pt">
+        {%- assign safe_venue = post.venue | markdownify | strip_html -%}
+        <em>{{ safe_venue }}</em>
+    </div>
+    {% if post.paperurl or post.arxivurl or post.codeurl or post.dataurl or post.homeurl or post.videourl %}
+    <div style="margin-top: 5px; margin-bottom: 10px">
+      {% if post.paperurl %}<a href="{{ post.paperurl }}" target="_blank" class="paper_btn" style="text-decoration:none"><i class="fa fa-file-pdf-o"></i> Paper</a>{% endif %}
+      {% if post.arxivurl %}<a href="{{ post.arxivurl }}" target="_blank" class="paper_btn" style="text-decoration:none"><i class="fa fa-file-pdf-o"></i> arXiv</a>{% endif %}
+      {% if post.codeurl %}<a href="{{ post.codeurl }}" target="_blank" class="paper_btn" style="text-decoration:none"><i class="fab fa-github"></i> Code</a>{% endif %}
+      {% if post.videourl %}<a href="{{ post.videourl }}" target="_blank" class="paper_btn" style="text-decoration:none"><i class="fab fa-youtube"></i> Video</a>{% endif %}
+      {% if post.homeurl %}<a href=" {{ post.homeurl }} " target="_blank" class="paper_btn" style="text-decoration:none"><i class="fa-solid fa-house"></i> Homepage</a>{% endif %}
+    </div>
+    {% endif %}
+</div>

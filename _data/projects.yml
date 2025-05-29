@@ -1,0 +1,34 @@
+- title: "Korean Dialect Understanding of ChatGPT"
+  collection: "project"
+  date: "2023-03"
+  venue: "2023 Spring KAIST Voices of ChatGPT"
+  codeurl: 'https://github.com/Nayoung-Oh/ChatGPT_Team2'
+
+- title: 'Movies and Hearing Impairments'
+  collection: 'project'
+  date: '2020-03'
+  venue: '2020 Spring KAIST STP314 Quality of Life Technology and Social Policy'
+  homeurl: "http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002649751"
+
+- title: 'Intelligent Agent, Smart Enough to be Stupid'
+  colletion: 'project'
+  date: '2022-03'
+  venue: '2022 Spring KAIST CS592 CS592 Special Topics in Computing<Robot Learning and Interaction>'
+  codeurl: 'https://github.com/Nayoung-Oh/Smart_and_Stupid'
+
+- title: Robotic Peg-in-Hole with Uncertainties
+  collection: 'project'
+  date: '2022-12'
+  venue: '2022 Winter TUM IN2106 Master internship - Robotics Intelligence Lab Course'
+
+- title: Easy-to-Read Sentence Generation for the Intellectual Disability
+  collection: 'project'
+  date: '2022-03'
+  venue: '2022 Spring KAIST CS376 Machine Learning'
+  codeurl: 'https://github.com/Nayoung-Oh/Easy_to_Read'
+
+- title: Demystifying the Spatial Reasoning Abilities of CLIP
+  collection: 'project'
+  date: '2024-03'
+  venue: '2024 Spring KAIST AI502 Deep Learning'
+  codeurl: 'https://github.com/holymollyhao/ai502'

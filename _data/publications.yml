@@ -1,0 +1,47 @@
+- title: "DiSPo: Diffusion-SSM based Policy Learning for Coarse-to-Fine Action Discretization"
+  authors: "Nayoung Oh, Jaehyeong Jang, Moonkyeong Jung, Daehyung Park"
+  collection: "publications"
+  date: "2025-05-08"
+  venue: "(under review)"
+  type: 'Preprints'
+  arxivurl: "https://arxiv.org/pdf/2409.14719"
+  videourl: 'https://www.youtube.com/watch?v=vAdhXM6G2DQ'
+
+- title: 'A survey on integration of large language models with intelligent robots'
+  authors: 'Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park'
+  collection: 'publications'
+  date: '2024-08-13'
+  venue: 'Intelligent Service Robotics, 2024'
+  type: 'Journal Articles'
+  paperurl: 'https://link.springer.com/article/10.1007/s11370-024-00550-5'
+  arxivurl: 'https://arxiv.org/abs/2404.09228'
+
+- title: "Lingo-space: Language-conditioned incremental grounding for space"
+  authors: 'Dohyun Kim, Nayoung Oh, Deokmin Hwang, Daehyung Park'
+  collection: 'publications'
+  date: '2024-03-24'
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence, 2024'
+  type: 'Conferences'
+  paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/28898/29708'
+  codeurl: 'https://github.com/rirolab/LINGO-Space'
+  arxivurl: 'https://arxiv.org/abs/2402.01183'
+  videourl: 'https://www.youtube.com/watch?v=3rxoNUZeot8'
+  homeurl: 'https://lingo-space.github.io/'
+
+- title: 'A robot capable of proactive assistance through handovers for sequential tasks'
+  authors: 'Nayoung Oh, Junyong Park, Ji Ho Kwak, Sungho Jo'
+  collection: 'publications'
+  date: '2021-07-30'
+  venue: 'International Conference on Ubiquitous Robots (UR), 2021'
+  type: 'Conferences'
+  paperurl: 'https://ieeexplore.ieee.org/abstract/document/9494681'
+  arxivurl: 'http://nmail.kaist.ac.kr/paper/UR2021.pdf'
+
+- title: 'HybGrasp: A Hybrid Learning-to-Adapt Architecture for Efficient Robot Grasping'
+  authors: 'Jungwook Mun, Khang Truong Giang, Yunghee Lee, Nayoung Oh, Sejoon Huh, Min Kim, Sungho Jo'
+  collection: 'publications'
+  date: '2023-11-02'
+  venue: 'IEEE Robotics and Automation Letters (RA-L), 2023'
+  type: 'Journal Articles'
+  paperurl: 'https://ieeexplore.ieee.org/abstract/document/10305261'
+  arxivurl: 'http://nmail.kaist.ac.kr/paper/ral24.pdf'
