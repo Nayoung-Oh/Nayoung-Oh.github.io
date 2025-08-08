@@ -52,7 +52,7 @@ Experience
 
 
 ### Teaching
-- 2023.07~2023.12 / 2024.07-2024.12, KAIST & Kakao Impact &lt;Tech for Impact&lt; TA ([article link](https://www.kakaoimpact.org/news/view?atclId=115&recommend=0))
+- 2023.07~2023.12 / 2024.07-2024.12, KAIST & Kakao Impact &lt;Tech for Impact&gt; TA ([article link](https://www.kakaoimpact.org/news/view?atclId=115&recommend=0))
 - 2019 - 2021, IHA IIP (Infinite Image Program) Lecturer, teach 3D modeling, autonomous driving car, and ROS
 
 
@@ -77,6 +77,7 @@ Skills
     - Familiar with ROS, ROS2
     - Familiar with Git
     - Familiar with pytorch
+    - Familiar with CUDA
     - Basic web programming with React / Basic app development with Java
 - Other Development Skill
     - 3D Modeling: SolidWorks, Fusion 360
