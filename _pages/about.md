@@ -12,8 +12,8 @@ Hello! I am Nayoung Oh, a second-year Master’s student in [KAIST AI](https://g
 
 My research goal is to develop efficient and controllable robot learning systems, with a particular interest in supporting underrepresented groups. Recently, I have been focusing on:
 
-1. Diffusion-state space model (SSM)-based imitation learning
-2. Natural language space grounding using large language models (LLMs)
+1. State space model (SSM) based efficient small vision language action models (sVLA)
+2. Diffusion-SSM based imitation learning
 
 Please feel free to contact me at: <code>nyoh (at) kaist.ac.kr</code>
 

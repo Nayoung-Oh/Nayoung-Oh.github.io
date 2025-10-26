@@ -6,6 +6,22 @@
   arxivurl: "https://arxiv.org/pdf/2409.14719"
   videourl: 'https://www.youtube.com/watch?v=vAdhXM6G2DQ'
 
+- title: "Diffusion-SSM based Policy Learning for Multi-Granularity Action Prediction"
+  authors: "Nayoung Oh, Jaehyeong Jang, Moonkyeong Jung, Daehyung Park"
+  collection: "publications"
+  venue: "Human to Robot (H2R) workshop at Conference on Robot Learning (CoRL, 2025)"
+  date: "2025-09-27"
+  type: 'Workshops, Demos, and Posters'
+  arxivurl: "https://openreview.net/pdf?id=1praNHUpVx"
+
+- title: 'A Visuo-Tactile Data Collection System with Haptic Feedback for Coarse-to-Fine Imitation Learning'
+  authors: 'Yeseung Kim, Nayoung Oh, Jun Park, Teetat Thamronglak, Daehyung Park'
+  collection: 'publications'
+  date: '2024-08-13'
+  venue: 'Conference on Robot Intelligence Technology and Applications (RiTA), 2025'
+  type: 'Conferences'
+
+
 - title: 'A survey on integration of large language models with intelligent robots'
   authors: 'Yeseung Kim, Dohyun Kim, Jieun Choi, Jisang Park, Nayoung Oh, Daehyung Park'
   collection: 'publications'
@@ -19,7 +35,7 @@
   authors: 'Dohyun Kim, Nayoung Oh, Deokmin Hwang, Daehyung Park'
   collection: 'publications'
   date: '2024-03-24'
-  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence, 2024'
+  venue: 'Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2024'
   type: 'Conferences'
   paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/28898/29708'
   codeurl: 'https://github.com/rirolab/LINGO-Space'
