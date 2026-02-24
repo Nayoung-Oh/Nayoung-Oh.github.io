@@ -8,6 +8,13 @@
   videourl: 'https://www.youtube.com/watch?v=vAdhXM6G2DQ'
   homeurl: 'https://robo-dispo.github.io/'
 
+- title: "C2F-Space: Coarse-to-Fine Space Grounding for Spatial Instructions using Vision-Language Models"
+  authors: "Nayoung Oh, Dohyun Kim, Junhyeong Bang, Rohan Paul, Daehyung Park"
+  collection: "publications"
+  date: "2025-11-19"
+  type: 'Preprints'
+  arxivurl: "https://arxiv.org/pdf/2511.15333"
+
 - title: "Diffusion-SSM based Policy Learning for Multi-Granularity Action Prediction"
   authors: "Nayoung Oh, Jaehyeong Jang, Moonkyeong Jung, Daehyung Park"
   collection: "publications"
